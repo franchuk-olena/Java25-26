@@ -1,6 +1,6 @@
 package Home.HW2;
 
-public class HarmonicSeriesSum {
+public class B02_17d {
     public static double sumTerms(double x, double epsilon) {
         double sum = 0.0;
         int k = 0;

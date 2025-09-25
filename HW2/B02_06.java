@@ -2,7 +2,7 @@ package Home.HW2;
 
 import java.util.Scanner;
 
-public class HarmonicMeanSimple {
+public class B02_06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
