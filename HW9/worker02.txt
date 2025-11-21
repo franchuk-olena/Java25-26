@@ -1,4 +1,2 @@
-Line 1
 Hello world
-Java threads
 Last line
