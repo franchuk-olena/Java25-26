@@ -1,0 +1,8 @@
+humanitarian
+15
+1000
+teach humanitarian
+teach humanitarian 3
+obtain scholarship 1500
+pay hostel 500
+pay food 200
